@@ -85,15 +85,16 @@ Then open:
 ## 📸 Screenshots
 
 ### 🔐 Login Page
+![Login](library-app/screenshots/login.png)
 
-(Add your screenshot here)
+### 📊 Dashboard
+![Dashboard](library-app/screenshots/dashboard.png)
 
-### 📚 Dashboard
+### ➕ Add Book
+![Add Book](library-app/screenshots/addbook.png)
 
-(Add your screenshot here)
-
----
-
+### 🔍 Search Book
+![Search](library-app/screenshots/search.png)
 ## 👩‍💻 Author
 
 * **Name:** Samaira
